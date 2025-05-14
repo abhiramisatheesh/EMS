@@ -1,0 +1,134 @@
+[
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "AssignTask",
+    "RelativePath": "api/Emp/assign",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskDto",
+        "Type": "EMPPROJECT.Model.Task",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/Emp/employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "GetEmployeeById",
+    "RelativePath": "api/Emp/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "Login",
+    "RelativePath": "api/Emp/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EMPPROJECT.Model.EmployeePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "Logout",
+    "RelativePath": "api/Emp/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "RegisterEmployee",
+    "RelativePath": "api/Emp/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "EMPPROJECT.Model.EmployeeMaster1",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "SetPassword",
+    "RelativePath": "api/Emp/setpassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "password",
+        "Type": "EMPPROJECT.Model.EmployeePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "UpdatePassword",
+    "RelativePath": "api/Emp/updatepassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EMPPROJECT.Model.EmployeePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "ViewTask",
+    "RelativePath": "api/Emp/viewtask",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
