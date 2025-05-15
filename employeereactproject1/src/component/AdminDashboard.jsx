@@ -82,7 +82,7 @@ function AdminDashboard() {
     <div>
 
 <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static">
+      <AppBar position="static"sx={{ backgroundColor: 'black' }}>
         <Toolbar>
           <IconButton
             size="large"
@@ -99,6 +99,7 @@ function AdminDashboard() {
          <Link to={'/addemployee'} ><Button style={{ color: "white" }} color="inherit">Add Employee</Button></Link>
           <Link to={'/setpassword'} ><Button style={{ color: "white" }} color="inherit">Set Password</Button></Link>
           <Link to={'/employeelist'} ><Button style={{ color: "white" }} color="inherit">Employee List</Button></Link>
+          {/* <Link to={'/viewtasks'} ><Button style={{ color: "white" }} color="inherit">View Tasks</Button></Link> */}
           <Link to={'/logout'} ><Button style={{ color: "white" }} color="inherit">Logout</Button></Link> 
           {/* <Button color="inherit">SignUp</Button> */}
         </Toolbar>

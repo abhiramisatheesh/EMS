@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { TextField, Button, Container } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
+import AdminNavbar from './EmployeeNavbar';
 
 const View = () => {
   const [employeeId, setEmployeeId] = useState('');
@@ -29,6 +30,8 @@ const View = () => {
   };
 
   return (
+    <>
+    <AdminNavbar/>
     <Container maxWidth="sm">
       <h2>Employee Login</h2>
       <TextField
@@ -50,6 +53,7 @@ const View = () => {
         Login
       </Button>
     </Container>
+    </>
   );
 };
 

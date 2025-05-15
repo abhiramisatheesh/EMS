@@ -52,6 +52,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper,Button } from '@mui/material';
 import { Link } from "react-router-dom";
+import AdminNavbar from './AdminNavbar';
 
 const EmployeeList = () => {
   const [employees, setEmployees] = useState([]);
@@ -68,7 +69,10 @@ const EmployeeList = () => {
   }, []);
 
   return (
-    <div style={{ padding: '20px' }}>
+    <>
+    <AdminNavbar/>
+    
+    <div style={{ padding: '100px' }}>
       <h2>Employee Report</h2>
       <TableContainer component={Paper}>
         <Table>
@@ -96,8 +100,16 @@ const EmployeeList = () => {
                   <Link to={'/assigntask'} >
                   <Button
                     variant="contained"
-                    color="primary"
+                   
+                   
                     onClick={() => handleAssignTask(emp.id)}
+                    sx={{
+    backgroundColor: 'black',
+    color: 'white',
+    '&:hover': {
+      backgroundColor: '#333' // Slightly lighter black on hover
+    }
+  }}
                   >
                     Assign Task
                   </Button>
@@ -109,6 +121,7 @@ const EmployeeList = () => {
         </Table>
       </TableContainer>
     </div>
+    </>
   );
 };
 

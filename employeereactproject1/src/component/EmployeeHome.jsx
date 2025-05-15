@@ -9,7 +9,7 @@ function EmployeeHome() {
     <div>
 
 <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static">
+      <AppBar position="static"sx={{ backgroundColor: 'black' }}>
         <Toolbar>
           <IconButton
             size="large"
@@ -25,8 +25,9 @@ function EmployeeHome() {
           </Typography>
          <Link to={'/employeeprofile/:id'} ><Button style={{ color: "white" }} color="inherit">Profile</Button></Link>
            <Link to={'/updatepassword'} ><Button style={{ color: "white" }} color="inherit">Update Password</Button></Link>
-          <Link to={'/logout'} ><Button style={{ color: "white" }} color="inherit">Logout</Button></Link> 
-        {/*<Link to={'/addmovie'} ><Button style={{ color: "white" }} color="inherit">Add Movie</Button></Link> */}
+         
+        <Link to={'/viewassigntask'} ><Button style={{ color: "white" }} color="inherit">View Task</Button></Link> 
+         <Link to={'/logout'} ><Button style={{ color: "white" }} color="inherit">Logout</Button></Link> 
           {/* <Button color="inherit">SignUp</Button> */}
         </Toolbar>
       </AppBar>

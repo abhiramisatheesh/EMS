@@ -124,7 +124,14 @@ const Login = () => {
         value={password}
         onChange={(e) => setPassword(e.target.value)}
       />
-      <Button variant="contained" fullWidth onClick={handleLogin}>
+      <Button variant="contained"  color="primary" fullWidth onClick={handleLogin}
+      sx={{
+    backgroundColor: 'black',
+    color: 'white',
+    '&:hover': {
+      backgroundColor: '#333', // slightly lighter on hover
+    }
+  }}>
         Login
       </Button>
     </Container>

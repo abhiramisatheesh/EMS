@@ -28,10 +28,10 @@ const AdminLogin = () => {
 
   return (
     <Container maxWidth="sm">
-      <h2>Employee Login</h2>
+      <h2>Admin Login</h2>
       <TextField
         fullWidth
-        label="Employee ID"
+        label="Admin ID"
         margin="normal"
         value={employeeId}
         onChange={(e) => setEmployeeId(e.target.value)}
@@ -44,7 +44,14 @@ const AdminLogin = () => {
         value={password}
         onChange={(e) => setPassword(e.target.value)}
       />
-      <Button variant="contained" fullWidth onClick={handleLogin}>
+      <Button variant="contained" fullWidth onClick={handleLogin}
+       sx={{
+    backgroundColor: 'black',
+    color: 'white',
+    '&:hover': {
+      backgroundColor: '#333', // slightly lighter on hover
+    }
+  }}>
         Login
       </Button>
     </Container>

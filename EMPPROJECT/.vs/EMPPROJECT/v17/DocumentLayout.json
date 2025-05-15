@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\",
+  "WorkspaceRootPath": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\controllers\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\controllers\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\controllers\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -29,38 +29,34 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\nhc1ryzc..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\model\\employeepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\model\\employeepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\model\\employeepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164358_New3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMPPROJECT\\Migrations\\20250513164358_New3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164358_New3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\model\\employeemaster1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\model\\employeemaster1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\model\\employeemaster1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513163814_New2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMPPROJECT\\Migrations\\20250513163814_New2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513163814_New2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\uxulpjii..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513160710_New1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMPPROJECT\\Migrations\\20250513160710_New1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513160710_New1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513151520_New.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMPPROJECT\\Migrations\\20250513151520_New.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513151520_New.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -73,29 +69,21 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\mtkzfvpo..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250512094818_qwer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMPPROJECT\\Migrations\\20250512094818_qwer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250512094818_qwer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\t3ewifcz..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\empproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\empproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\empproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\empproject\\empproject\\migrations\\20250513164513_new4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|f:\\.netproject\\final project\\newemp\\ems\\ems\\empproject\\empproject\\migrations\\20250513164513_new4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8770605D-57A5-4A7D-AF31-7DA0C53A3E3E}|EMPPROJECT\\EMPPROJECT.csproj|solutionrelative:empproject\\migrations\\20250513164513_new4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\ifd2hyly..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\ifd2hyly..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -111,11 +99,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Emp.cs",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Controllers\\Emp.cs",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Controllers\\Emp.cs",
               "RelativeDocumentMoniker": "EMPPROJECT\\Controllers\\Emp.cs",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Controllers\\Emp.cs",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Controllers\\Emp.cs",
               "RelativeToolTip": "EMPPROJECT\\Controllers\\Emp.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowDYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T23:32:15.293Z",
               "IsPinned": true,
@@ -130,9 +118,9 @@
               "DocumentIndex": 8,
               "Title": "20250513164358_New3.cs",
               "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164358_New3.cs",
-              "RelativeDocumentMoniker": "EMPPROJECT\\Migrations\\20250513164358_New3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164358_New3.cs",
               "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164358_New3.cs",
-              "RelativeToolTip": "EMPPROJECT\\Migrations\\20250513164358_New3.cs",
+              "RelativeToolTip": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164358_New3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T16:43:58.477Z"
@@ -141,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Task.cs",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Model\\Task.cs",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Model\\Task.cs",
               "RelativeDocumentMoniker": "EMPPROJECT\\Model\\Task.cs",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Model\\Task.cs",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Model\\Task.cs",
               "RelativeToolTip": "EMPPROJECT\\Model\\Task.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,22 +141,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\appsettings.json",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\appsettings.json",
               "RelativeDocumentMoniker": "EMPPROJECT\\appsettings.json",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\appsettings.json",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\appsettings.json",
               "RelativeToolTip": "EMPPROJECT\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-19T19:47:47.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T19:47:47.285Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Program.cs",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Program.cs",
               "RelativeDocumentMoniker": "EMPPROJECT\\Program.cs",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Program.cs",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Program.cs",
               "RelativeToolTip": "EMPPROJECT\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,35 +166,33 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EMPPROJECT\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "EMPPROJECT\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T19:45:46.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T19:45:46.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Data\\ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Data\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "EMPPROJECT\\Data\\ApplicationDbContextFactory.cs",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Data\\ApplicationDbContextFactory.cs",
               "RelativeToolTip": "EMPPROJECT\\Data\\ApplicationDbContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T23:26:08.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T23:26:08.522Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "20250513164513_New4.cs",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164513_New4.cs",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164513_New4.cs",
               "RelativeDocumentMoniker": "EMPPROJECT\\Migrations\\20250513164513_New4.cs",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164513_New4.cs",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513164513_New4.cs",
               "RelativeToolTip": "EMPPROJECT\\Migrations\\20250513164513_New4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,20 +210,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SQLQuery1.sql ",
+              "Title": "ifd2hyly..sql",
               "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\ifd2hyly..sql",
-              "ToolTip": "SQLQuery1.sql *",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\ifd2hyly..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-14T07:02:03.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:02:03.643Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "EmployeeMaster1.cs",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Model\\EmployeeMaster1.cs",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Model\\EmployeeMaster1.cs",
               "RelativeDocumentMoniker": "EMPPROJECT\\Model\\EmployeeMaster1.cs",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Model\\EmployeeMaster1.cs",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Model\\EmployeeMaster1.cs",
               "RelativeToolTip": "EMPPROJECT\\Model\\EmployeeMaster1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "EmployeePassword.cs",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Model\\EmployeePassword.cs",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Model\\EmployeePassword.cs",
               "RelativeDocumentMoniker": "EMPPROJECT\\Model\\EmployeePassword.cs",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Model\\EmployeePassword.cs",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Model\\EmployeePassword.cs",
               "RelativeToolTip": "EMPPROJECT\\Model\\EmployeePassword.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -270,9 +254,9 @@
               "DocumentIndex": 10,
               "Title": "20250513163814_New2.cs",
               "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513163814_New2.cs",
-              "RelativeDocumentMoniker": "EMPPROJECT\\Migrations\\20250513163814_New2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513163814_New2.cs",
               "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513163814_New2.cs",
-              "RelativeToolTip": "EMPPROJECT\\Migrations\\20250513163814_New2.cs",
+              "RelativeToolTip": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513163814_New2.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T16:38:14.579Z"
@@ -282,9 +266,9 @@
               "DocumentIndex": 14,
               "Title": "20250513151520_New.cs",
               "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513151520_New.cs",
-              "RelativeDocumentMoniker": "EMPPROJECT\\Migrations\\20250513151520_New.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513151520_New.cs",
               "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513151520_New.cs",
-              "RelativeToolTip": "EMPPROJECT\\Migrations\\20250513151520_New.cs",
+              "RelativeToolTip": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513151520_New.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T15:15:20.473Z"
@@ -294,9 +278,9 @@
               "DocumentIndex": 13,
               "Title": "20250513160710_New1.cs",
               "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513160710_New1.cs",
-              "RelativeDocumentMoniker": "EMPPROJECT\\Migrations\\20250513160710_New1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513160710_New1.cs",
               "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513160710_New1.cs",
-              "RelativeToolTip": "EMPPROJECT\\Migrations\\20250513160710_New1.cs",
+              "RelativeToolTip": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250513160710_New1.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T16:07:10.378Z"
@@ -314,9 +298,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Properties\\launchSettings.json",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "EMPPROJECT\\Properties\\launchSettings.json",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\Properties\\launchSettings.json",
               "RelativeToolTip": "EMPPROJECT\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -345,9 +329,9 @@
               "DocumentIndex": 19,
               "Title": "20250512094818_qwer.cs",
               "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250512094818_qwer.cs",
-              "RelativeDocumentMoniker": "EMPPROJECT\\Migrations\\20250512094818_qwer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250512094818_qwer.cs",
               "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250512094818_qwer.cs",
-              "RelativeToolTip": "EMPPROJECT\\Migrations\\20250512094818_qwer.cs",
+              "RelativeToolTip": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250512094818_qwer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T09:48:18.49Z"
             },
@@ -356,9 +340,9 @@
               "DocumentIndex": 22,
               "Title": "20250419232719_InitialCreate.cs",
               "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs",
-              "RelativeDocumentMoniker": "EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs",
               "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs",
-              "RelativeToolTip": "EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\EMPPROJECT\\EMPPROJECT\\Migrations\\20250419232719_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T23:27:20.306Z"
             },
@@ -375,9 +359,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "EMPPROJECT.csproj",
-              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\EMPPROJECT.csproj",
+              "DocumentMoniker": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\EMPPROJECT.csproj",
               "RelativeDocumentMoniker": "EMPPROJECT\\EMPPROJECT.csproj",
-              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\EMPPROJECT.csproj",
+              "ToolTip": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\EMPPROJECT.csproj",
               "RelativeToolTip": "EMPPROJECT\\EMPPROJECT.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

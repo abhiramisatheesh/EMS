@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "EMPPROJECT.Controllers.Emp",
+    "Method": "GetTasksForEmployee",
+    "RelativePath": "api/Emp/assigned/{employeeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMPPROJECT.Controllers.Emp",
     "Method": "GetAllEmployees",
     "RelativePath": "api/Emp/employees",
     "HttpMethod": "GET",

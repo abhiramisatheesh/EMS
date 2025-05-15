@@ -57,6 +57,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper } from '@mui/material';
 import { useParams } from 'react-router-dom';  // Ensure this is imported
+import EmployeeNavbar from './EmployeeNavbar';
 
 const EmployeeList = () => {
   const [employees, setEmployees] = useState([]);
@@ -85,8 +86,11 @@ const EmployeeList = () => {
   }, [id]); // Dependency on 'id', so it will refetch if the id changes
 
   return (
-    <div style={{ padding: '20px' }}>
-      <h2>Employee Report</h2>
+    <>
+    <EmployeeNavbar/>
+    
+    <div style={{ padding: '100px' }}>
+      <h2>Profile</h2>
       <TableContainer component={Paper}>
         <Table>
           <TableHead>
@@ -114,6 +118,7 @@ const EmployeeList = () => {
         </Table>
       </TableContainer>
     </div>
+    </>
   );
 };
 

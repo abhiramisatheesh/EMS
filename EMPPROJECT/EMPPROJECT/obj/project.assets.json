@@ -4473,11 +4473,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\EMPPROJECT.csproj",
+      "projectUniqueName": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\EMPPROJECT.csproj",
       "projectName": "EMPPROJECT",
-      "projectPath": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\EMPPROJECT.csproj",
+      "projectPath": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\EMPPROJECT.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\.NETProject\\Final Project\\NewEmp\\EMPPROJECT\\EMPPROJECT\\obj\\",
+      "outputPath": "F:\\.NETProject\\Final Project\\NewEmp\\EMS\\EMS\\EMPPROJECT\\EMPPROJECT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

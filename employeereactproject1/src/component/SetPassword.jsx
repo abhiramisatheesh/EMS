@@ -8,6 +8,7 @@ import {
   Box,
   Alert
 } from '@mui/material';
+import AdminNavbar from './AdminNavbar';
 
 const SetPasswordForm = () => {
   // const [id, setId] = useState('');
@@ -33,6 +34,8 @@ const SetPasswordForm = () => {
   };
 
   return (
+    <>
+          <AdminNavbar /> 
     <Container maxWidth="sm">
       <Box sx={{ mt: 8, p: 4, boxShadow: 3, borderRadius: 2 }}>
         <Typography variant="h5" gutterBottom>
@@ -60,7 +63,13 @@ const SetPasswordForm = () => {
             type="submit"
             variant="contained"
             fullWidth
-            sx={{ mt: 2 }}
+            sx={{ mt: 2,
+              backgroundColor: 'black',
+    color: 'white',
+    '&:hover': {
+      backgroundColor: '#333', // slightly lighter on hover
+    }
+             }}
           >
             Set Password
           </Button>
@@ -72,6 +81,7 @@ const SetPasswordForm = () => {
         )}
       </Box>
     </Container>
+    </>
   );
 };
 

@@ -3,6 +3,7 @@ using EMPPROJECT.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace EMPPROJECT.Controllers
 {
@@ -150,7 +151,18 @@ namespace EMPPROJECT.Controllers
             return Ok(new { message = "Logged out successfully" });
         }
 
+       
 
+        // GET: api/Task/assigned/{employeeId}
+        [HttpGet("assigned/{employeeId}")]
+        public async Task<IActionResult> GetTasksForEmployee(int employeeId)
+        {
+            var tasks = await _context.Tasks
+                .Where(t => t.EmployeeId == employeeId)
+                .ToListAsync();
+
+            return Ok(tasks);
+        }
 
     }
 }

@@ -7,6 +7,7 @@ import {
   Typography,
   Box,
 } from '@mui/material';
+import EmployeeNavbar from './EmployeeNavbar';
 
 const updatePassword = () => {
   const [formData, setFormData] = useState({
@@ -35,6 +36,8 @@ const updatePassword = () => {
   };
 
   return (
+    <>
+    <EmployeeNavbar/>
     <Container maxWidth="sm">
       <Box sx={{ mt: 4 }}>
         <Typography variant="h5" gutterBottom>
@@ -60,7 +63,13 @@ const updatePassword = () => {
             margin="normal"
             required
           />
-          <Button variant="contained" color="primary" type="submit" sx={{ mt: 2 }}>
+          <Button variant="contained" color="primary" type="submit" sx={{ mt: 2 ,
+            backgroundColor: 'black',
+    color: 'white',
+    '&:hover': {
+      backgroundColor: '#333', // slightly lighter on hover
+    }
+          }}>
             Set Password
           </Button>
         </form>
@@ -71,6 +80,7 @@ const updatePassword = () => {
         )}
       </Box>
     </Container>
+    </>
   );
 };
 

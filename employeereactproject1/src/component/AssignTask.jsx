@@ -3,6 +3,7 @@ import axios from 'axios';
 import {
   Container, TextField, Button, Typography, MenuItem, Box
 } from '@mui/material';
+import AdminNavbar from './AdminNavbar';
 
 const AssignTask = () => {
   const [employees, setEmployees] = useState([]);
@@ -45,6 +46,9 @@ const AssignTask = () => {
   };
 
   return (
+    <>
+    <AdminNavbar/>
+    
     <Container maxWidth="sm" sx={{ mt: 4 }}>
       <Typography variant="h5" gutterBottom>Assign Task to Employee</Typography>
       <form onSubmit={handleSubmit}>
@@ -85,12 +89,20 @@ const AssignTask = () => {
         />
 
         <Box mt={2}>
-          <Button type="submit" variant="contained" color="primary">
+          <Button type="submit" variant="contained" color="primary"
+           sx={{
+    backgroundColor: 'black',
+    color: 'white',
+    '&:hover': {
+      backgroundColor: '#333', // slightly lighter on hover
+    }
+  }}>
             Assign Task
           </Button>
         </Box>
       </form>
     </Container>
+    </>
   );
 };
 
